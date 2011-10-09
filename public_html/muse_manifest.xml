@@ -1,0 +1,18 @@
+<manifest alg="1">
+  <folder name="image">
+    <file name="clipboard.jpg" crc="12451869"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="0.9">
+      <file name="jquery-1.4.4.min.js" crc="247588841"/>
+      <file name="sprydomutils.js" crc="119034094"/>
+      <file name="museutils.js" crc="4270515061"/>
+      <file name="pie.js" crc="942815"/>
+    </folder>
+  </folder>
+  <folder name="css">
+    <file name="index.css" crc="3887802597"/>
+    <file name="site_global.css" crc="534546955"/>
+  </folder>
+  <file name="index.html" crc="4241725552"/>
+</manifest>
